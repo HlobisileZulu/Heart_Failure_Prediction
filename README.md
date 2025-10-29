@@ -7,6 +7,7 @@ The objective of this project is analysis of patient health data in order to pre
 
 ## KPIs(Key performance Indicators)
 -What is the overall mortality rate (percentage of patients who experienced a death event)?
+
 -How does mortality differ between males and females?
 -What is the relationship between age and mortality rate?
 -How does ejection fraction (heart pumping efficiency) relate to survival outcomes?
