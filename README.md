@@ -19,3 +19,14 @@ What is the mortality difference between patients with and without high blood pr
 -How does creatinine phosphokinase (CPK) level correlate with survival status?
 -What is the average survival time for patients who died vs. those who survived?
 
+## Dashboard
+<a href="https://github.com/HlobisileZulu/Heart_Failure_Prediction/blob/main/Heart_failure_prediction_Dashboard.twb" target="_blank">Dashboard</a>
+
+## Process for the Heart Failure Prediction Project
+
+1. Data Collection & Understanding
+2. Data Cleaning & Preparation
+3. Exploratory Data Analysis 
+4. KPI Definition & Calculations
+5. Data Visualization & Dashboard Design
+6. Predictive Analysis
