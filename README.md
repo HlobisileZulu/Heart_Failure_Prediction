@@ -20,7 +20,7 @@ What is the mortality difference between patients with and without high blood pr
 -What is the average survival time for patients who died vs. those who survived?
 
 ## Dashboard
-<a href="https://github.com/HlobisileZulu/Heart_Failure_Prediction/blob/main/Heart_failure_prediction_Dashboard.twb" target="_blank">Dashboard</a>
+<a href="https://github.com/HlobisileZulu/Heart_Failure_Prediction/blob/main/Heart_failure_prediction_Dashboard.twb" target="_blank">Heart_failure_prediction_Dashboard</a>
 
 ## Process for the Heart Failure Prediction Project
 
@@ -30,3 +30,6 @@ What is the mortality difference between patients with and without high blood pr
 4. KPI Definition & Calculations
 5. Data Visualization & Dashboard Design
 6. Predictive Analysis
+
+## Visualisation link
+To access my interactive dashboard on Tableau public follow this link <a href="https://public.tableau.com/app/profile/hlobisile.zulu/viz/Heart_failure_prediction_Dashboard/Dashboard1">Interactive Heart_failure_prediction_Dashboard</a>
